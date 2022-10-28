@@ -1,9 +1,9 @@
 # Map Levels
 Mark your footprint using these simple apps
 
-US: hosting not configured for this fork
+US: https://joanwolk.github.io/us-level/us.html
 
-Europe: hosting not configured for this fork
+Europe: https://joanwolk.github.io/us-level/eu.html
 
 > This is a fork to re-point the US map, with heavier weights on having lived somewhere and combining the "stopped here" and "passed here" into a single "transited here" level. 
 > I recommend referring to the [original project](https://github.com/tenpages/us-level/) and to file [issues](https://github.com/tenpages/us-level/issues) or fix them with [pull requests](https://github.com/tenpages/us-level/pulls).

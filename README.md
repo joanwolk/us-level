@@ -1,13 +1,12 @@
 # Map Levels
 Mark your footprint using these simple apps
 
-US: https://tenpages.github.io/us-level/us.html
+US: hosting not configured for this fork
 
-Europe: https://tenpages.github.io/us-level/eu.html
+Europe: hosting not configured for this fork
 
-> I'm new to `js` so there might be issues with these apps. Please let me know if there is anything wrong to [issues](https://github.com/tenpages/us-level/issues) or fix them with [pull requests](https://github.com/tenpages/us-level/pulls).
-
-> Since it is viral now: I'm looking for internships please give me one (this is a joke but I am looking for one. anyway.)
+> This is a fork to re-point the US map, with heavier weights on having lived somewhere and combining the "stopped here" and "passed here" into a single "transited here" level. 
+> I recommend referring to the [original project](https://github.com/tenpages/us-level/) and to file [issues](https://github.com/tenpages/us-level/issues) or fix them with [pull requests](https://github.com/tenpages/us-level/pulls).
 
 ## How to
 
@@ -24,8 +23,8 @@ Tap and mark countries, states or terretories you've been to. Tap "Save" to save
 
 ## Diary
 
-There is a short post related to this project in my 
-[blog](https://tenpages.github.io/dev/2022/10/24/level/).
+There is a short post related to this project in 
+[tenpage's blog](https://tenpages.github.io/dev/2022/10/24/level/).
 
 ## Disclaimer
 

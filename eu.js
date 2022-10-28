@@ -10,11 +10,11 @@ const 获取元素方位 = 元素 => 元素.getBoundingClientRect();
 const messages = {
     English: {
         message: {
-            data_level_5: 'Lived Here',
-            data_level_4: 'Stayed Here',
-            data_level_3: 'Visited Here',
-            data_level_2: 'Stopped Here',
-            data_level_1: 'Passed Here',
+            data_level_10: 'Lived Here',
+            data_level_3: 'Stayed Here',
+            data_level_2: 'Visited Here',
+            // data_level_2: 'Stopped Here',
+            data_level_1: 'Transited Here',
             data_level_0_alt: 'Want to be Here',
             data_level_0: 'Never Been Here',
             pt: 'pt | pts',
@@ -73,10 +73,10 @@ const messages = {
     },
     简体中文: {
         message: {
-            data_level_5: '居住过',
-            data_level_4: '住宿过',
-            data_level_3: '游玩过',
-            data_level_2: '中转过',
+            data_level_10: '居住过',
+            data_level_3: '住宿过',
+            data_level_2: '游玩过',
+            // data_level_2: '中转过',
             data_level_1: '路过',
             data_level_0_alt: '想要去',
             data_level_0: '没去过',
@@ -136,10 +136,10 @@ const messages = {
     },
     繁體中文: {
         message: {
-            data_level_5: '居住過',
-            data_level_4: '住宿過',
-            data_level_3: '遊玩過',
-            data_level_2: '中轉過',
+            data_level_10: '居住過',
+            data_level_3: '住宿過',
+            data_level_2: '遊玩過',
+            // data_level_2: '中轉過',
             data_level_1: '路過',
             data_level_0_alt: '想要去',
             data_level_0: '沒去過',
@@ -199,10 +199,10 @@ const messages = {
     },
     日本語: {
         message: {
-            data_level_5: '住居',
-            data_level_4: '宿泊',
-            data_level_3: '訪問',
-            data_level_2: '接地',
+            data_level_10: '住居',
+            data_level_3: '宿泊',
+            data_level_2: '訪問',
+            // data_level_2: '接地',
             data_level_1: '通過',
             data_level_0_alt: '行きたい',
             data_level_0: '未踏',
@@ -262,10 +262,10 @@ const messages = {
     },
     Español: {
         message: {
-            data_level_5: 'Vivido Aqui',
-            data_level_4: 'Quedado Aqui',
-            data_level_3: 'Visitado Aqui',
-            data_level_2: 'Detuvido Aqui',
+            data_level_10: 'Vivido Aqui',
+            data_level_3: 'Quedado Aqui',
+            data_level_2: 'Visitado Aqui',
+            // data_level_2: 'Detuvido Aqui',
             data_level_1: 'Pase por Aqui',
             data_level_0_alt: 'Quiero ir',
             data_level_0: 'Nunca he estado',
